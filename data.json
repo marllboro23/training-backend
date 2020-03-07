@@ -1,0 +1,30 @@
+{
+    "users": [
+        {
+            "id": "0291",
+            "username": "nam",
+            "password": "cookie",
+            "email": "namnt@gmail.com"
+        },
+        {
+            "id": "0392",
+            "username": "nam1",
+            "password": "cookie",
+            "email": "namnt1@gmail.com"
+        },
+        {
+            "id": "0493",
+            "username": "nam2",
+            "password": "cookie",
+            "email": "namnt3@gmail.com"
+        }
+    ],
+    "login": [
+        {
+            "id": "123",
+            "has": false,
+            "password": "cookie",
+            "email": "namnt@gmail.com"
+        }
+    ]
+}
